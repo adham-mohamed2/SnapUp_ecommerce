@@ -1,0 +1,36 @@
+header{
+    height:fit-content;
+    width:100%;
+    background-color: rgb(255, 68, 0);
+    margin-bottom: 30px;
+}
+.arrow{
+    width:1px;
+    height:25px;
+    background-color: #fff;
+    margin:0 10px;
+}
+.top-header{
+    width:100%;
+    border-bottom: 2px solid #fff;
+    
+   
+}
+ul{
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+ul li .question{
+   
+    padding:0 7px;
+    color:#000;
+    border-radius: 50%;
+    background-color: #fff;
+}
+@media (max-width:760px) {
+    .top-header-content{
+        flex-direction: column;
+        row-gap: 20;
+    }
+}

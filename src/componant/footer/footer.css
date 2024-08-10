@@ -1,0 +1,15 @@
+footer{
+    width:100%;
+    background-color: rgba(255, 68, 0, 0.87);
+    height:150px;
+}
+.arrow{
+    width:1px;
+    height:25px;
+    background-color: #fff;
+    margin:0 10px;
+}
+ul li .link-footer{
+    text-decoration: none;
+    font-size: 25px;
+}

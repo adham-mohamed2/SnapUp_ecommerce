@@ -1,0 +1,12 @@
+.Message{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% , -50%);
+}
+.content-message{
+    width:400px;
+    height:150px;
+    background-color: #000000a5;
+    padding:15px;
+}

@@ -1,0 +1,23 @@
+.arrow-details{
+    width:1px;
+    height:25px;
+    background-color: orangered;
+    margin:0 10px;
+}
+.add-card{
+    background-color: white;
+    color:orangered;
+    border:2px solid orangered;
+    width:150px;
+}
+.buy-now{
+    background-color: orangered;
+    color:#fff;
+    width:100px;
+}
+ul li{
+    color:orangered;
+}
+ul  li > span{
+    color:#000;
+}
